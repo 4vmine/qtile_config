@@ -28,3 +28,6 @@ Follow these steps to set up this Qtile configuration:
    ```bash
    mkdir -p ~/.config/qtile
    cp config.py ~/.config/qtile/config.py
+
+
+**If you hany problem. Feel free to reach me in discord! : 0x4v**
